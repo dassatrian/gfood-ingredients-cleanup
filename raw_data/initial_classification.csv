@@ -1,0 +1,269 @@
+Classification ID,Classification Name,emission_id,hsr_id
+31302,Herbs(dried)  and spices ,,
+31301,Salt,,
+31303,Stock cubes and seasonings ,,2
+31501,Chemical raising agents and cooking ingredients ,,2
+31502,Gelatine ,,2
+12103,Cereal flours and starches,,2
+24102,Potato products ,6,2
+31401,Essences,,2
+31101,Yeast,1,2
+29101,"Beers, > 3.5% alcohol ",3,
+29102,"Beers, 1.15- 3.5% alcohol, reduced alcohol / light ",3,
+29301,Spirits ,,
+29401,Cider,,
+29201,"Wines, red (including sparkling varieties and rose styles)",30,
+29202,"Wines, white (including sparkling varieties)",30,
+29203,Fortified wines ,30,
+11804,Unfortified dry beverage flavourings,,1
+11802,Fortified dry beverage flavourings,,1
+11801,Fortified beverage flavourings prepared with water or milk,,1
+11803,Unfortified beverage flavourings prepared with water or milk,,1
+11205,"Dry coffee powder, caffeinated or decaffeinated",32,
+11201,"Coffee beverage, prepared with water",32,
+11203,"Coffee beverage, decaffeinated, prepared with water",32,
+11202,"Coffee beverage, prepared with milk or milk substitute",32,
+11403,Cordial concentrate ,,1
+11401,"Cordials, made from concentrate",,1
+11307,Fruit drinks (ready to drink or made from concentrate),,1
+11301,"Fruit juices, commercially prepared",,1
+11702,Purchased packaged water including mineral water,,1
+11505,Flavoured mineral waters ,,1
+11503,"Soft drinks, cola",,1
+11504,"Soft drinks, cola, intense sweetened",,1
+11603,Energy drinks,,1
+11501,"Soft drinks, non-cola ",,1
+11502,"Soft drinks, non-cola, intense sweetened ",,1
+11101,"Tea, regular, caffeinated, prepared with water",,
+11103,"Tea, regular, decaffeinated, prepared with water or milk",,
+11701,"Domestic water (including tap, tank/rain water)",,
+13204,"Savoury biscuits, rice based (includes rice cakes)",,2
+13202,"Savoury biscuits, wheat based, plain, energy >1800 kJ per 100 g",,2
+13201,"Savoury biscuits, wheat based, plain, energy ≤1800 kJ per 100 g",,2
+13101,"Sweet biscuits, plain or flavoured including short bread varieties",,2
+13106,"Sweet biscuits, chocolate-coated, chocolate or cream filled",,2
+13105,"Sweet biscuits, chocolate-coated, chocolate chip ",,2
+13104,"Sweet biscuits, cream-filled ",,2
+12201,"Breads, and bread rolls, white, mandatorily fortified",1,2
+12203,"Breads, and bread rolls, white, not stated as to fortification",1,2
+12302,"Flat breads (e.g. Pita bread), wheat based",1,2
+12202,"Breads, and bread rolls, white, additional voluntary fortification",1,2
+12304,Savoury filled or topped breads and bread rolls,1,2
+12207,"Breads, and bread rolls, wholemeal and brown, mandatorily fortified ",1,2
+12204,"Breads, and bread rolls, mixed grain, mandatorily fortified ",1,2
+12305,"Sweet breads, buns and scrolls, uniced, unfilled",1,2
+12307,Fried bread products and garlic breads,1,2
+12213,"Breads, and bread rolls, gluten free",1,2
+12210,"Breads, and bread rolls, rye, mandatorily fortified ",1,2
+12306,"Sweet breads, buns and scrolls, iced and/or filled",1,2
+13606,Crumpets,,2
+12301,English-style muffins ,1,2
+11805,Breakfast cereal beverages,,1
+12501,"Breakfast cereal, corn based",2,2
+12502,"Breakfast cereal, corn based, fortified",2,2
+12512,"Breakfast cereal, mixed grain, fortified, sugars ≤20 g/100g",4,2
+12515,"Breakfast cereal, mixed grain, with fruit and/or nuts, fortified ",4,2
+12513,"Breakfast cereal, mixed grain, fortified, sugars >20 g/100g",4,2
+12511,"Breakfast cereal, mixed grain",4,2
+12503,"Breakfast cereal, rice based",5,2
+12504,"Breakfast cereal, rice based, fortified",5,2
+12509,"Breakfast cereal, wheat based, with fruit and/or nuts, fortified, sugars ≤25 g/100g",1,2
+12506,"Breakfast cereal, wheat based, fortified, sugars ≤20 g/100g",1,2
+12505,"Breakfast cereal, wheat based",1,2
+12514,"Breakfast cereal, mixed grain, with fruit and/or nuts",4,2
+13303,"Cakes and cake mixes, other types",,2
+13306,"Slices, biscuit and cake-type ",,2
+13301,"Cakes and cake mixes, chocolate",,2
+13302,"Cakes and cake mixes, sponge",,2
+13605,Doughnuts ,,2
+13304,"Muffins, cake type, and muffin mixes ",,2
+13601,"Pancakes, crepes and dishes ",,2
+13602,"Drop scones, pikelets ",,2
+13305,Cake-type desserts ,,2
+13307,"Scones and rock cakes, plain or with added fruit or vegetables only",,2
+12101,Grains (other than rice) and grain fractions,1,2
+12601,"Porridge style, oat based",4,2
+22102,Seed products,,2
+12102,Rice and rice grain fractions,5,2
+13511,"Savoury rice-based dishes, saturated fat ≤5 g/100 g",5,2
+25201,Legume and pulse products ,10,2
+12104,"Cereal flours and starches, fortified",,2
+13506,"Burgers, saturated fat >5 g/100 g",,2
+13505,"Burgers, saturated fat ≤5 g/100 g",,2
+13503,"Sandwiches and filled rolls, saturated fat ≤5 g/100 g",,2
+13501,"Pizza, saturated fat ≤5 g/100 g",,2
+12403,"Pasta and noodles, not wheat based",,2
+12401,"Pasta and noodles, wheat based, other than instant noodles",1,2
+12402,"Instant noodles and noodle products, wheat based",1,2
+13509,"Savoury pasta/noodle and sauce dishes, saturated fat ≤5 g/100 g",,2
+13401,"Pastry, plain/unfilled, all types ",,2
+13405,"Savoury pastry products, pies, rolls and envelopes",,2
+13406,"Savoury pastry products, pies, rolls and envelopes, fried",,2
+13402,"Sweet pastry products, fruit and/or nut fillings",,2
+13403,"Sweet pastry products, egg or dairy based fillings",,2
+23303,"Italian and French-style dressings, full fat ",,2
+23301,"Mayonnaise and cream-style dressings, full fat ",,2
+23102,Dry gravy mixes,,2
+23101,Gravies (prepared),,2
+23302,"Mayonnaise and cream-style dressings, reduced or non-fat ",,2
+23103,"Savoury sauces, not tomato based, commercial",,2
+23109,Savoury pastes,,2
+15504,Fish and seafood products,42,2
+23107,"Savoury sauces, commercial, simmer style",,2
+18701,"Beef dishes with gravy, sauce or vegetables ",34,2
+23104,"Savoury sauces, tomato based, commercial",21,2
+23108,"Savoury sauces, dairy based, homemade",,2
+23305,Vinegar,,2
+22202,Peanut products,12,2
+31102,Yeast extracts,1,2
+19401,"Cheese, hard cheese ripened styles",40,3D
+19405,"Cheese, camembert, brie and other surface ripened cheeses",40,3D
+19402,"Cheese, hard cheese ripened styles, reduced fat",40,3D
+19406,"Cheese, processed ",40,3D
+19407,"Cheese, processed, reduced fat ",40,3D
+19403,"Cheese, unripened styles, including cream and cottage cheese, regular fat",40,3D
+20301,Cheese substitute,40,3D
+19301,"Cream, regular and increased fat",39,2D
+19305,"Cream substitute, artificial cream ",39,2D
+19303,"Cream, sour ",39,2D
+19304,"Cream, sour, reduced fat",39,2D
+19501,"Ice cream, tub varieties, fat content >10 g/100 g",39,2D
+19505,"Ice cream, individual bar, stick and cone varieties, fat content 4 - 10 g/100 g",39,2D
+27303,"Water ice confection, gelato, sorbet ",,2
+19101,"Milk, cow, fluid, regular whole, full fat ",39,1D
+19102,"Milk, cow, fluid, regular whole, full fat, fortified",39,1D
+19103,"Milk, cow, fluid, reduced fat, <2 g/100g ",39,1D
+19104,"Milk, cow, fluid, reduced fat, <2 g/100g, fortified",39,1D
+19105,"Milk, cow, fluid, skim, non-fat ",39,1D
+19106,"Milk, evaporated or condensed, undiluted ",39,1D
+19107,"Milk, powder, cow, dry",39,1D
+32102,Human breast milk,,1D
+19602,"Custard, fat content <4 g/100 g",,2D
+19701,"Dairy desserts, smooth or gelatin-based dairy desserts ",39,2D
+19201,"Yoghurt, natural, regular fat and high fat (>4 g/100g fat)",39,2D
+19205,"Yoghurt, flavoured or added fruit, full fat ",39,2D
+19208,"Yoghurt, flavoured or added fruit, low fat or skim, sugar sweetened ",39,2D
+20106,Cereal- or nut-based milk substitute,,2
+20101,"Soy-based beverage, plain",14,2
+20102,"Soy-based beverage, plain, fortified",14,2
+20104,"Soy-based beverage, plain, reduced fat, fortified",14,2
+20601,Meat substitutes,,2
+20501,"Soy-based yoghurts, regular fat",14,2
+20502,"Soy-based yoghurts, reduced fat",14,2
+14101,Butter,39,3
+14102,Butter products,39,3
+14201,"Dairy blend, regular, fat content ≥ 65g/100g",39,2D
+14301,"Polyunsaturated margarine spreads, fat content ≥ 65g/100g",,3
+14303,"Monounsaturated margarine spreads, fat content ≥65 g/100g",,3
+14306,Margarine spreads with added phytosterols,,3
+14304,"Monounsaturated margarine spreads,fat content <65 g/100g",,3
+14402,Monounsaturated oils ,,3
+14401,Polyunsaturated oils ,,3
+14502,Vegetable-based solid fats,,3
+14501,Animal-based solid fats ,,3
+17101,"Eggs, chicken ",41,2
+17102,"Eggs, chicken, modified (e.g. Omega-3, folate)",41,2
+17201,"Egg dishes, savoury ",41,2
+16101,Apples,28,2
+16802,Other dried fruit including mixed dried fruit,31,2
+16403,Other stone fruit ,31,2
+16404,"Other stone fruit, commercially sterile",31,2
+16501,Bananas ,27,2
+16201,Berry fruit,29,2
+16702,"Mixtures of two or more groups of fruit, commercially sterile ",31,2
+16303,Other citrus fruit ,26,2
+16801,Dried vine fruit ,31,2
+16504,"Other tropical and subtropical fruit, inedible peel",31,2
+16503,"Other tropical and subtropical fruit, edible peel",31,2
+16601,Other fruit ,31,2
+16302,Lemons and limes,26,2
+16804,Preserved fruit,31,2
+16105,Other pome fruit ,31,2
+16304,"Citrus fruit, commercially sterile",26,2
+16505,"Tropical and subtropical fruit, commercially sterile",31,2
+16401,Peaches and nectarines,31,2
+16301,Oranges ,26,2
+16402,"Peaches and nectarines, commercially sterile",31,2
+16103,Pears ,31,2
+16104,"Pears, commercially sterile",31,2
+16502,Pineapples ,31,2
+16202,"Berry fruit, commercially sterile",29,2
+24502,Beans,10,2
+25101,Mature legumes and pulses ,10,2
+25102,"Mature legumes and pulses, commercially sterile",10,2
+24501,Peas and edible-podded peas ,10,2
+18101,Beef ,34,2
+18104,Veal ,,2
+18102,Lamb and mutton,36,2
+18202,Other mammalian game ,,2
+18103,Pork ,37,2
+18301,Chicken ,38,2
+18903,"Poultry crumbed, battered, meatloaf or patty type with cereal and/or vegetables",38,2
+18302,Other poultry,38,2
+18303,Feathered game,38,2
+34101,Reptiles,,2
+18201,Kangaroo,,2
+18401,Liver ,,2
+18601,Bacon,3,2
+18606,"Processed meat, commercially sterile (includes canned meats)",,2
+18605,"Processed delicatessen meat, poultry",38,2
+18502,"Frankfurts and saveloys, saturated fat content >5 g/100g",37,2
+18602,Ham ,37,2
+18501,"Sausage, saturated fat content >5 g/100g",37,2
+18503,"Sausages, frankfurts and saveloys, saturated fat content ≤5 g/100g",37,2
+18603,"Fermented, comminuted meats (e.g. Salami)",,2
+22203,Coconut and coconut products ,31,2
+22204,Other nuts and nut products and dishes ,12,2
+22201,Peanuts ,13,2
+22101,Seeds ,,2
+15101,"Fin fish, fresh, frozen ",42,2
+15501,"Fin fish, battered or crumbed ",42,2
+15302,Eel,42,2
+15202,"Molluscs, fresh, frozen ",43,2
+15201,"Crustacea, fresh, frozen ",43,2
+15401,Packed fin fish ,42,2
+15102,Smoked fish ,42,2
+28302,"Muesli and cereal style bars, with fruit and/or nuts",,2
+28303,"Muesli and cereal style bars, added coatings or confectionery",,2
+28304,"Muesli bar, with fruit or fruit paste filling",,2
+26201,Corn chips ,2,2
+26301,Extruded snacks ,,2
+26401,Other snacks ,,2
+26202,Popcorn ,,2
+26101,Potato crisps ,,2
+21201,"Dry soup mix containing meat, poultry or seafood",,2
+21301,"Soup containing meat, poultry or seafood",,2
+21202,"Dry soup mix, vegetable only",,2
+28102,Chocolate-based confectionery with nut fillings or additions,,2
+28103,Chocolate-based confectionery with other fillings or additions,,2
+28101,"Chocolate (plain, unfilled varieties)",,2
+23201,"Fruit-based pickles, chutneys and relishes",31,2
+27201,"Jams and conserves, sugar sweetened ",29,2
+27204,"Sweet spreads or sauces, chocolate/coffee flavoured",,2
+27102,Honey and sugar syrups ,,2
+27101,Sugar ,8,2
+28401,"Lollies and other confectionery, sugar sweetened",8,2
+27301,Sugar-based desserts ,8,2
+24402,Stalk vegetables ,22,2
+24302,Other root vegetables,23,2
+24705,Other fruiting vegetables ,,2
+24403,"Herbs, fresh",,2
+24201,Cabbage and similar brassica vegetables ,24,2
+24202,"Broccoli, broccolini and cauliflower",25,2
+24301,Carrots,23,2
+24704,Sweetcorn,25,2
+24401,Leaf vegetables ,25,2
+24801,Other vegetables ,25,2
+24802,"Onion, leek and garlic ",22,2
+23202,"Vegetable-based pickles, chutneys and relishes ",,2
+24803,Mixtures of two or more vegetables ,,2
+24703,Mushrooms,25,2
+24101,Potatoes ,6,2
+24103,Potato mixed dishes ,6,2
+24701,Pumpkin ,25,2
+24404,Seaweeds,,2
+24503,Sprouts,23,2
+24702,Squash and zucchini ,25,2
+24601,Tomato ,21,2
+24602,Tomato products ,21,2
+24001,Wild harvested vegetables,25,2
